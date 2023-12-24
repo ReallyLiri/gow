@@ -1,5 +1,7 @@
 # gow
 
+Install: `go install github.com/ReallyLiri/gow@latest`
+
 ```
 complementary utility for working with go workspaces
 
